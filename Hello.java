@@ -3,4 +3,10 @@ public class Hello{
 		System.out.prinln("Hello World!");
 	}
 	
+	//测试方法
+	public void test(){
+	
+		err.prinln("dd");
+	}
+	
 }
