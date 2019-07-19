@@ -7,6 +7,7 @@ public class Hello{
 	public void test(){
 	
 		err.prinln("dd");
+		System.out.prinln("local!!!!!!!");
 	}
 	
 }
